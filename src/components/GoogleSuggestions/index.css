@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img1 {
+  width: 300px;
+  height: 100px;
+}
+.img2 {
+  width: 40px;
+  height: 40px;
+}
+.two {
+  display: flex;
+  flex-direction: row;
+}
+.input1 {
+  border: 0px;
+  outline: none;
+  width: 37vw;
+}
+.bgContainer1 {
+  min-height: 40vh;
+  width: 40vw;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 12px;
+  padding: 10px;
+}

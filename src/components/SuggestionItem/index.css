@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.img3 {
+  width: 20px;
+  height: 20px;
+}
+.one1 {
+  display: flex;
+  float: row;
+  justify-content: space-between;
+}
+.btn2 {
+  background-color: white;
+  padding: 0px;
+  border: 0px;
+}
